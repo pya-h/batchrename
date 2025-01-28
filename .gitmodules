@@ -1,0 +1,3 @@
+[submodule "QtCpp"]
+	path = QtCpp
+	url = https://github.com/pydea-rs/QtBatchRename
